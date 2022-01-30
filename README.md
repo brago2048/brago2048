@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brago2048
+- 👀 I’m interested in Fullstack developmont 
+- 🌱 I’m currently learning VueJS, Java, Spring, Bootstrap, NodeJS.
+- 📫 You can reach me by Email: othmanemorabite60@mail.com
